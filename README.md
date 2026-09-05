@@ -31,3 +31,9 @@ Exemple pour détecter un projet React :
 ```php
 if (file_exists($folderPath . '/public/manifest.json') && file_exists($folderPath . '/src/App.js')) {$stack[] = ['name' => 'React', 'bg' => '#61dafb', 'color' => '#000'];
 }
+```
+## 👨‍💻 Auteur
+Développé par ZelTroN2k3
+
+## 📄 Licence
+Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, de le modifier et de le distribuer.
